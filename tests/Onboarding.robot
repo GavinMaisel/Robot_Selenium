@@ -1,6 +1,6 @@
 *** Settings ***
 Resource        Onboarding_resources.robot
-
+Default Tags    onboarding
 
 *** Test Cases ***
 Onboarding
